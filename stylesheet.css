@@ -80,13 +80,13 @@ th,
 tr,
 p,
 a {
-/*  font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 17px
+ /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-size: 16.3px
 }
 
 strong {
-/*  font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-  font-size: 17px
+ /* font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-size: 16.3px
 }
 
 strongred {
@@ -106,7 +106,7 @@ pre {
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 17.3px;
   font-weight: 700
 }
 
